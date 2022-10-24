@@ -121,7 +121,9 @@ var _cssnanoUtilRawCache = require('cssnano-util-raw-cache');
 
 var _cssnanoUtilRawCache2 = _interopRequireDefault(_cssnanoUtilRawCache);
 
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+function _interopRequireDefault(obj) {
+    return obj && obj.__esModule ? obj : { default: obj };
+}
 
 const defaultOpts = {
     convertValues: {
